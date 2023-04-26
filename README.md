@@ -1,7 +1,6 @@
 # startapp
 
 «Startapp» - мобильная площадка для поддержки и продвижении Казахстанских стартапов
-##Flutter
 
 ## Getting Started
 
