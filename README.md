@@ -1,6 +1,7 @@
 # startapp
 
-A new Flutter project.
+«Startapp» - мобильная площадка для поддержки и продвижении Казахстанских стартапов
+Flutter Project
 
 ## Getting Started
 
